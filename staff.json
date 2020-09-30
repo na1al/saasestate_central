@@ -1,0 +1,22 @@
+{
+  "pid": 1,
+  "eid": 1,
+  "price": 1000,
+  "currency": "USD",
+  "point": {
+    "x": 50.452453,
+    "y": 30.489687
+  },
+  "params": [
+    {
+      "type": "AREA_LIVING",
+      "value": 56
+    }
+  ],
+  "tags": [
+    {
+      "type": "ROOMS",
+      "id": 1
+    }
+  ]
+}
